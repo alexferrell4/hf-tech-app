@@ -171,7 +171,7 @@ const CONTENT_CALENDAR = [
   { day: "Sunday", theme: "Rest or Repurpose", type: null, platform: "Optional", tip: "Repurpose a top post from the week as a Story or Tweet. Or take the day off." },
 ];
 
-export default function HFTCSocialToolkit() {
+export default function HFTCSocialToolKit() {
   const [activeTab, setActiveTab] = useState("generator");
   const [selectedPlatform, setSelectedPlatform] = useState("linkedin");
   const [selectedType, setSelectedType] = useState("thought_leadership");
