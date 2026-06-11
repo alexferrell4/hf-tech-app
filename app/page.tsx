@@ -1,4 +1,4 @@
-import HFTCSocialToolkit from "@/components/HFTCSocialToolKit";
+import HFTCSocialToolKit from "@/components/HFTCSocialToolKit";
 
 export default function Home() {
   return <HFTCSocialToolKit />;
